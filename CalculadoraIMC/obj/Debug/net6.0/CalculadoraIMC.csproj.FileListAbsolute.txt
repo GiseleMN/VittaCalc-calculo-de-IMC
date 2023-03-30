@@ -1,0 +1,12 @@
+/Users/giselehorii/Downloads/TestesUnitarios-Mst-xUnit-master/CalculoImc/CalculadoraIMC/bin/Debug/net6.0/CalculadoraIMC.deps.json
+/Users/giselehorii/Downloads/TestesUnitarios-Mst-xUnit-master/CalculoImc/CalculadoraIMC/bin/Debug/net6.0/CalculadoraIMC.dll
+/Users/giselehorii/Downloads/TestesUnitarios-Mst-xUnit-master/CalculoImc/CalculadoraIMC/bin/Debug/net6.0/CalculadoraIMC.pdb
+/Users/giselehorii/Downloads/TestesUnitarios-Mst-xUnit-master/CalculoImc/CalculadoraIMC/obj/Debug/net6.0/CalculadoraIMC.csproj.AssemblyReference.cache
+/Users/giselehorii/Downloads/TestesUnitarios-Mst-xUnit-master/CalculoImc/CalculadoraIMC/obj/Debug/net6.0/CalculadoraIMC.GeneratedMSBuildEditorConfig.editorconfig
+/Users/giselehorii/Downloads/TestesUnitarios-Mst-xUnit-master/CalculoImc/CalculadoraIMC/obj/Debug/net6.0/CalculadoraIMC.AssemblyInfoInputs.cache
+/Users/giselehorii/Downloads/TestesUnitarios-Mst-xUnit-master/CalculoImc/CalculadoraIMC/obj/Debug/net6.0/CalculadoraIMC.AssemblyInfo.cs
+/Users/giselehorii/Downloads/TestesUnitarios-Mst-xUnit-master/CalculoImc/CalculadoraIMC/obj/Debug/net6.0/CalculadoraIMC.csproj.CoreCompileInputs.cache
+/Users/giselehorii/Downloads/TestesUnitarios-Mst-xUnit-master/CalculoImc/CalculadoraIMC/obj/Debug/net6.0/CalculadoraIMC.dll
+/Users/giselehorii/Downloads/TestesUnitarios-Mst-xUnit-master/CalculoImc/CalculadoraIMC/obj/Debug/net6.0/refint/CalculadoraIMC.dll
+/Users/giselehorii/Downloads/TestesUnitarios-Mst-xUnit-master/CalculoImc/CalculadoraIMC/obj/Debug/net6.0/CalculadoraIMC.pdb
+/Users/giselehorii/Downloads/TestesUnitarios-Mst-xUnit-master/CalculoImc/CalculadoraIMC/obj/Debug/net6.0/ref/CalculadoraIMC.dll
